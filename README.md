@@ -9,8 +9,7 @@ I'm looking for an internship from Jan - Apr 2021. If you are hiring, feel free 
 - ⚡ Developing a full stack web app that helps students prepare for their interviews 💼 with MongoDB, Express, React and Node.js
 
 ### 📧 Contact Me 
-[Email](mailto:athenaparthenos2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/athena-liu) 
-If you want to learn more about what I do, please visit my [website.](http://athenalry.github.io/)
+[Email](mailto:athenaparthenos2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/athena-liu) | here's my [website.](http://athenalry.github.io/)
 <!--
 **athenalry/athenalry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💭 Curious about NLP and have learned about the basics of Machine Learning on Coursera
