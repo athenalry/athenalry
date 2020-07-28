@@ -5,7 +5,7 @@ I'm looking for an internship from Jan - Apr 2021. If you are hiring, feel free 
 ### 📚 Current Work:
 
 - 💻 Working from 🏡 [@Hubdoc](https://www.hubdoc.com/) as a Software Developer, previously at RBC
-- 👩‍💻 Building platforms to connect students to entrepeneurial opportunities 💡 [@ Entrepeneurship Society Waterloo](https://entsoc.ca/)
+- 👩‍💻 Building platforms to connect students to entrepreneurial opportunities 💡 [@ Entrepeneurship Society Waterloo](https://entsoc.ca/)
 - ⚡ Developing a full stack web app that helps students prepare for their interviews 💼 with MongoDB, Express, React and Node.js
 
 ### 📧 Contact Me 
