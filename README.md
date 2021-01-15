@@ -1,9 +1,10 @@
 ### Hi there 👋, thanks for visiting!
 My name is **Athena** and I am a sophomore studying Software Engineering Student at the University of Waterloo. 
-I'm looking for an internship from Jan - Apr 2021. If you are hiring, feel free to reach out!
+I'm looking for an internship from Sept - Dec 2021. If you are hiring, feel free to reach out!
 
 ### 📚 What I did this past summer,:
-- Worked from 🏡 at [Xero, formerly Hubdoc](https://www.hubdoc.com/) as a Software Developer
+- Working from 🏡 at [Nexxt Intelligence, https://www.nexxt.in/] as a Software Engineering Intern (Full Stack & NLP)
+- Previously at([Xero, formerly Hubdoc](https://www.hubdoc.com/), Royal Bank of Canada and Brock University 
 - 👩‍💻 Built platforms to connect students to entrepreneurial opportunities 💡 [@ Entrepeneurship Society Waterloo](https://entsoc.ca/)
 - ⚡ Developed a full stack web app that helps students prepare for their interviews 💼 with MongoDB, Express, React and Node.js
 
