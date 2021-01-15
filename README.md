@@ -3,8 +3,8 @@ My name is **Athena** and I am a sophomore studying Software Engineering Student
 I'm looking for an internship from Sept - Dec 2021. If you are hiring, feel free to reach out!
 
 ### 📚 What I did this past summer,:
-- Working from 🏡 at [Nexxt Intelligence, https://www.nexxt.in/] as a Software Engineering Intern (Full Stack & NLP)
-- Previously at([Xero, formerly Hubdoc](https://www.hubdoc.com/), Royal Bank of Canada and Brock University 
+- Working from 🏡 at [Nexxt Intelligence](https://www.nexxt.in/) as a Software Engineering Intern (Full Stack & NLP)
+- Previously at [Xero, formerly Hubdoc](https://www.hubdoc.com/), Royal Bank of Canada and Brock University 
 - 👩‍💻 Built platforms to connect students to entrepreneurial opportunities 💡 [@ Entrepeneurship Society Waterloo](https://entsoc.ca/)
 - ⚡ Developed a full stack web app that helps students prepare for their interviews 💼 with MongoDB, Express, React and Node.js
 
