@@ -1,6 +1,6 @@
 ### Hi there 👋, thanks for visiting!
 My name is **Athena** and I am a sophomore studying Software Engineering Student at the University of Waterloo. 
-I'm looking for an internship from Sept - Dec 2021. If you are hiring, feel free to reach out!
+I'm looking for an internship for Summer 2022. If you are hiring, feel free to reach out!
 
 ### 📚 What I did this past summer,:
 - Working from 🏡 at [Nexxt Intelligence](https://www.nexxt.in/) as a Software Engineering Intern (Full Stack & NLP)
