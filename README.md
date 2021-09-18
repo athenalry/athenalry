@@ -1,5 +1,5 @@
 ### Hi there 👋, thanks for visiting!
-My name is **Athena** and I am a sophomore studying Software Engineering Student at the University of Waterloo. 
+My name is **Athena** and I am a junior studying Software Engineering Student at the University of Waterloo. 
 I'm looking for an internship for Summer 2022. If you are hiring, feel free to reach out!
 
 ### 📚 What I'm Up To,:
